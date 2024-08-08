@@ -1,0 +1,30 @@
+C:\Users\tron\Desktop\New folder (4)\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tron\Desktop\New folder (4)\bin\Debug\net8.0\appsettings.json
+C:\Users\tron\Desktop\New folder (4)\bin\Debug\net8.0\New folder (4).staticwebassets.runtime.json
+C:\Users\tron\Desktop\New folder (4)\bin\Debug\net8.0\New folder (4).exe
+C:\Users\tron\Desktop\New folder (4)\bin\Debug\net8.0\New folder (4).deps.json
+C:\Users\tron\Desktop\New folder (4)\bin\Debug\net8.0\New folder (4).runtimeconfig.json
+C:\Users\tron\Desktop\New folder (4)\bin\Debug\net8.0\New folder (4).dll
+C:\Users\tron\Desktop\New folder (4)\bin\Debug\net8.0\New folder (4).pdb
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\New folder (4).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\New folder (4).AssemblyInfoInputs.cache
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\New folder (4).AssemblyInfo.cs
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\New folder (4).csproj.CoreCompileInputs.cache
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\New folder (4).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\New folder (4).RazorAssemblyInfo.cache
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\New folder (4).RazorAssemblyInfo.cs
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\staticwebassets\msbuild.New folder (4).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\staticwebassets\msbuild.build.New folder (4).props
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.New folder (4).props
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.New folder (4).props
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\scopedcss\bundle\New folder (4).styles.css
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\scopedcss\projectbundle\New folder (4).bundle.scp.css
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\New folder (4).dll
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\refint\New folder (4).dll
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\New folder (4).pdb
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\New folder (4).genruntimeconfig.cache
+C:\Users\tron\Desktop\New folder (4)\obj\Debug\net8.0\ref\New folder (4).dll
